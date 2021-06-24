@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>标签列表 | HyperJerry</title>
+<title>一些有趣的中英翻译（持续更新） | HyperJerry</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,23 @@
 <link rel="stylesheet" href="https://HYPERJERRY233.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="温故而知新">
+    <meta name="description" content="1.[NC-Raws] 关于我转生变成史莱姆这档事 转生史莱姆日记 - 09
+
+
+..." />
+    <meta name="keywords" content="英语" />
   </head>
   <body>
     <div id="app" class="main">
@@ -88,20 +98,46 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="tags-container">
+          <div class="post-detail">
+            <h2 class="post-title">一些有趣的中英翻译（持续更新）</h2>
+            <div class="post-date">2021-06-24</div>
             
-              <a class="tag" href="https://HYPERJERRY233.github.io/tag/BMTnX11Rox/">英语</a>
+            <div class="post-content" v-pre>
+              <p>1.[NC-Raws] 关于我转生变成史莱姆这档事 转生史莱姆日记 - 09<br>
+<img src="https://HYPERJERRY233.github.io/post-images/1624549561836.webp" alt="" loading="lazy"><br>
+<img src="https://HYPERJERRY233.github.io/post-images/1624549625954.webp" alt="" loading="lazy"></p>
+
+            </div>
             
-              <a class="tag" href="https://HYPERJERRY233.github.io/tag/Em5sHAoNi/">学习交流</a>
+              <div class="tag-container">
+                
+                  <a href="https://HYPERJERRY233.github.io/tag/BMTnX11Rox/" class="tag">
+                    英语
+                  </a>
+                
+              </div>
             
-              <a class="tag" href="https://HYPERJERRY233.github.io/tag/sQJSg6XWf/">假面骑士</a>
             
-              <a class="tag" href="https://HYPERJERRY233.github.io/tag/4yktC3lP5/">影视吐槽</a>
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://HYPERJERRY233.github.io/post/guan-yu-hencethustherefore-de-ge-ren-li-jie/">
+                  <h3 class="post-title">
+                    关于英文中表示&#34;所以&#34;的词的个人理解
+                  </h3>
+                </a>
+              </div>
             
-              <a class="tag" href="https://HYPERJERRY233.github.io/tag/Mp8jTpas-8/">GRIDMAN</a>
+
             
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
       </div>
     </div>
@@ -121,6 +157,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '0404b83297088924c122',
+        clientSecret: '7579ff6bcba2de52cbd9c2127e8d9f3c1f41fb48',
+        repo: 'HYPERJERRY233.github.io',
+        owner: 'HYPERJERRY233',
+        admin: ['HYPERJERRY233'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

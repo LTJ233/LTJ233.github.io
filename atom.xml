@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HYPERJERRY233.github.io</id>
     <title>HyperJerry</title>
-    <updated>2021-06-20T09:07:23.555Z</updated>
+    <updated>2021-06-24T15:50:13.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HYPERJERRY233.github.io"/>
     <link rel="self" href="https://HYPERJERRY233.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://HYPERJERRY233.github.io/images/avatar.png</logo>
     <icon>https://HYPERJERRY233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, HyperJerry</rights>
+    <entry>
+        <title type="html"><![CDATA[一些有趣的中英翻译（持续更新）]]></title>
+        <id>https://HYPERJERRY233.github.io/post/interesting_translation/</id>
+        <link href="https://HYPERJERRY233.github.io/post/interesting_translation/">
+        </link>
+        <updated>2021-06-24T15:44:33.000Z</updated>
+        <content type="html"><![CDATA[<p>1.[NC-Raws] 关于我转生变成史莱姆这档事 转生史莱姆日记 - 09<br>
+<img src="https://HYPERJERRY233.github.io/post-images/1624549561836.webp" alt="" loading="lazy"><br>
+<img src="https://HYPERJERRY233.github.io/post-images/1624549625954.webp" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于英文中表示"所以"的词的个人理解]]></title>
         <id>https://HYPERJERRY233.github.io/post/guan-yu-hencethustherefore-de-ge-ren-li-jie/</id>
