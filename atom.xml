@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HYPERJERRY233.github.io</id>
     <title>HyperJerry</title>
-    <updated>2021-07-13T09:41:09.398Z</updated>
+    <updated>2021-08-11T13:56:04.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HYPERJERRY233.github.io"/>
     <link rel="self" href="https://HYPERJERRY233.github.io/atom.xml"/>
@@ -11,7 +11,180 @@
     <icon>https://HYPERJERRY233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, HyperJerry</rights>
     <entry>
-        <title type="html"><![CDATA[籽岷虚无世界生存bgm整理]]></title>
+        <title type="html"><![CDATA[游戏反思：不要为了游戏而游戏]]></title>
+        <id>https://HYPERJERRY233.github.io/post/reflection/</id>
+        <link href="https://HYPERJERRY233.github.io/post/reflection/">
+        </link>
+        <updated>2021-08-10T13:24:36.000Z</updated>
+        <content type="html"><![CDATA[<p>写这一篇文章的前一天，我在《公主连结Re:dive》里经历了人生的第一次井（抽卡保底），但这不足以让我有感而发，因为在这个卡池之前，我也险些井（282/300）。虽然这个井，保证了我强力角色的获取，但对游戏钻石的花费，却是一笔不小的开支（近90000钻，折合RMB也要四位数了）。<br>
+<img src="https://HYPERJERRY233.github.io/post-images/1628689401031.webp" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://HYPERJERRY233.github.io/post-images/1628689408100.webp" alt="" loading="lazy"></figure>
+<hr>
+<p>反观一年前，当时我接触到这个游戏得益于B站的大力宣传，以及当时同名番剧的上映。我其实在高考前就有所耳闻，高考后我便像日常刷番一样，看完了第一季的动画。因为对动画的剧情感兴趣，我就入了坑。</p>
+<h3 id="没错这就是我玩这个所谓的二次元番剧手游游戏的初衷看番">没错，这就是我玩这个所谓的“二次元番剧手游”游戏的初衷：看番。<img src="https://HYPERJERRY233.github.io/post-images/1628689421878.webp" alt="" loading="lazy"></h3>
+<p>其实或许，这也是游戏本来的想要传达给我们的东西：一个操作并不复杂的游戏，视频cg、声优原声占用了几乎大多数内容。<br>
+去年整个暑假我的游戏体验都不错，主要是刷副本看剧情，然后抽点喜欢的人物。<br>
+但之后，自从看到各类攻略解析后，我开始变得和大多数人一样，半夜出刀，3点和群友竞技场抢位，买体刷装，卡星卡rank，甚至为了几点属性而放弃看剧情...<br>
+虽然不得不否认这应该是目前绝大多数玩家的日常，但其实至少对我来讲：</p>
+<h2 id="这样很累">这样很累</h2>
+<hr>
+<p><img src="https://HYPERJERRY233.github.io/post-images/1628689557731.webp" alt="" loading="lazy">所谓游戏，便是游玩，嬉戏。游戏的最终目的是娱乐放松，特别是对我这种咸鱼来说，这样的竞争，并没有刷完主线活动剧情来的爽。我们普通人不是职业选手，何苦累了自己，却换不到快乐？<br>
+不过话说回来，强度也不是没用，毕竟你没有实力推图，后面的剧情都解锁不了。<br>
+这次的水狼卡池，如果我不知道她的强度，我其实大概率是不会抽的，因为狼的人设其实不合我的口味。但现在，我却井了她。究其原因便是太看重了面板属性，太想为了变强。<br>
+这或许也能算一种内卷吧，亦或许是我想歇歇了。我不知道那些所谓的肝帝是怎么做到的，但至少就我而言，近450小时的游戏时间...真的让我对这类游戏有点心生厌倦。毕竟一年以来，我就从没有间断过这款游戏，每天想吃饭睡觉那样地当成了一种习惯。<img src="https://HYPERJERRY233.github.io/post-images/1628689432883.webp" alt="" loading="lazy"><br>
+所以在之后的一段时间，我打算暂时退坑，平复一下。<br>
+下期的会战我估计会鸽，对不起会里的大家了，这个公会是我入坑以来呆的最久的一个，成员们都热情活泼，（虽然都很咸鱼）排名在10000名浮动，但却没多大负担，作为公会第二输出的我如果退了坑，估计又进不了10000了吧。</p>
+<hr>
+<p>不过话说回来，这毕竟还是我的问题，我经不起井的痛苦，经不起少钻的窘迫，也不是很有上进心。但我却又摆脱不了现在这类游戏的基本规则，所以我回坑的时候，大概还是会这么玩的吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCULUS QUEST2使用心得及避坑建议]]></title>
+        <id>https://HYPERJERRY233.github.io/post/oculus-quest2/</id>
+        <link href="https://HYPERJERRY233.github.io/post/oculus-quest2/">
+        </link>
+        <updated>2021-07-26T09:15:56.000Z</updated>
+        <content type="html"><![CDATA[<p>今年6月底，我购买了OCULUS QUEST2，替代去年购买的国产vr一体机以求更好的游戏体验。然而作为Facebook旗下的产品，这款一体机对国内外家很不友好。我也是折腾了好几天才搞定。因为网上教程一搜一大堆，所以我只整理了一些我个人使用中问题，便于我自己之后的设备完善，也希望给看到的想入坑的或有了但还在琢磨的人一点启发。<br>
+首先，如果你符合以下条件，请谨慎购买，出门右转买国产VR：<br>
+1.懒得折腾，怕麻烦<br>
+2.从来没用过任何VR设备，不会VR的基础操作<br>
+3.没有培养过“良好的上网习惯”</p>
+<h2 id="一-购买">一、购买</h2>
+<p>我自己是直接亚马逊购买的，微信小程序里有日美两个版本，日本的物流比较快，其他差别不大。<br>
+当然，国内也有代购，价格贵一点，不过是帮忙激活的，怕麻烦可以买。但毕竟激活不是用的自己的号，以后更新什么的会比较麻烦。</p>
+<h2 id="二-激活">二、激活</h2>
+<p>最关键也最麻烦的一步。建议用自己的号，别人的号你也不知道有没有什么污点。我是使用的oculus助手进行激活的，虽然中途遇到了点问题，但目前这个方法是可行的。（如果不怕折腾，买个梅林路由器自己刷，刷完后其他的都省心了，但是这是技术活，一般小白弄不了）<br>
+<em>至于使用方面的问题，有，而且也不太容易解决，其他的网站也都没怎么敢提，这里为了我的网站能够长久运行，不能公开讲。[doge]</em></p>
+<h2 id="三-开发者">三、开发者</h2>
+<p>连接到手机APP，有手就行。（注意给权限，我一开始下意识点了禁止然后就连不上了）</p>
+<h2 id="四-安装软件">四、安装软件</h2>
+<p>土豪可以在内置应用商店直接购买，不过由于一体机是安卓系统，所以可以通过电脑装apk文件安装软件。个人比较常用的是sidequest和快斯特宝箱，前者资源更丰富，后者汉化应用多适合国人。<br>
+需要注意的是，一体机的系统更接近安卓电视的系统，所以很多手机app都不能正常使用，而电视app能用的好像多一点。<br>
+还有就是连接线的问题，如果电脑有Type-C口，请直接用原装充电线，如果没有，一定要用高质量USB线，不然电脑无法识别。</p>
+<h2 id="五-投屏">五、投屏</h2>
+<p>多亏热心的群友，我才折腾出了投屏的一系列操作。<br>
+1.q2投手机，电视<br>
+手机可以直接用oculus app，但要科学地使用。<br>
+安卓通用方法：手机，电视上安装airreceiver，打开，和一体机连接同一wifi，一体机内点投屏即可。<br>
+2.q2投电脑<br>
+电脑上打开sidequest，点右上角播放按钮直接投屏。<br>
+3.反投<br>
+一体机安装并打开airreceiver，手机安装镜像投屏（华为用不了QAQ），连接即可<br>
+华为手机的可以用乐播投屏，两端都安装上，不过因为协议问题，声音不能投，我目前只能使用耳机解决😂。<br>
+电脑可以使用Chrome浏览器的投屏功能（不推荐,延迟大）<br>
+也可使用steamvr串流虚拟桌面，或steam串流后打开GismoVR。（推荐，可反向操控电脑）<br>
+当然有钱的话肯定用virtual desktop啦~</p>
+<h2 id="六-配件">六、配件</h2>
+<p>q2因为没有国行，所以脸型是为欧洲人定制的，鼻子巨~大！漏光严重，所以非常建议买一个挡光面罩。<br>
+我还购买了头戴，增加头部受力点，并且大幅晃头时一体机也不会偏移。<img src="https://HYPERJERRY233.github.io/post-images/1628353389500.webp" alt="" loading="lazy"><br>
+<img src="https://HYPERJERRY233.github.io/post-images/1628353398500.webp" alt="" loading="lazy"><br>
+其他的（保护套，贴纸，扩展充电宝，无线充电器）我目前感觉不需要。</p>
+<h2 id="七-串流">七、串流</h2>
+<p>目前来看，我还是比较推荐无线串流的，因为自由无拘束。但有线也有好处，就是不需要局域网就能连，我基本没用过有线串流，所以这个不多讲。<br>
+目前我主要使用官方自带的airlink进行无线串流，延迟还是很低的，至少我玩节奏光剑的专家难度还是能勉强凑合的，专家+的话看来还是高端头显的直连才能驾驭了...</p>
+<h6 id="如果之后我在使用方面还有什么新的发现我也会在这里更新">如果之后我在使用方面还有什么新的发现，我也会在这里更新。</h6>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEAT SABER 节奏光剑 AI自制谱曲体验]]></title>
+        <id>https://HYPERJERRY233.github.io/post/beatsaber customized/</id>
+        <link href="https://HYPERJERRY233.github.io/post/beatsaber customized/">
+        </link>
+        <updated>2021-07-22T01:53:23.000Z</updated>
+        <content type="html"><![CDATA[<p>最近换了vr设备，入手了国外的oculus quest2，体验比国产vr设备丝滑许多。于是好事的我又忍不住想整点活🤪。</p>
+<p>去年入vr坑的时候就买了节奏光剑，玩着带感，还能玩到别人的自制谱面，但是作为一个二刺猿，很多歌曲都不能找到，或是没赶到作者下架前下载让我很是难受。然后我就找到了这个网站：<a href="https://beatsage.com/">https://beatsage.com/</a></p>
+<p>这是一个AI自动谱曲网站，他会识别你喜欢的歌曲的节奏，然后利用一定的算法谱曲，相比人工谱曲，AI谱曲快速便捷，非常实用。然而对于免费用户，他不能制作360°谱面以及舞台动态光效，有点可惜。。。</p>
+<p>用法也非常简单，只需上传或链接音乐，然后选择想要玩的模式，就可以自动谱曲了，不过要注意的是，制作时最好要科学上网，不然大概率会报错。然后谱面制作完成后会给一个带水印的封面，虽然可以自己修改掉，但我觉得这个水印用来标记自制和网上下载的区分也是非常直观方便。</p>
+<p>下载完后，如果手头没有vr设备，也可以先用这个网站在线预览：<a href="https://skystudioapps.com/bs-viewer/">https://skystudioapps.com/bs-viewer/</a></p>
+<p>（我个人非常喜欢プリコネ系列的角色歌，所以制作了一系列角色歌的谱面，有机会的话也可以分享给看到的各位。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[籽岷虚无世界生存bgm整理（下）]]></title>
+        <id>https://HYPERJERRY233.github.io/post/zi-min/</id>
+        <link href="https://HYPERJERRY233.github.io/post/zi-min/">
+        </link>
+        <updated>2021-07-02T03:12:54.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>家族になろうよ</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1443161312&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：家族になろうよ（福山雅治）</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1860847491&amp;auto=0&amp;height=32"></iframe>
+<hr>
+<p><strong>希望の轍</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1818610200&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：（在蜡笔小新中也出现过）</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=22774214&amp;auto=0&amp;height=32"></iframe>
+<hr>
+<p><strong>壊れかけのRadio</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1443157575&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=410151&amp;auto=0&amp;height=32"></iframe>
+<p>翻唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=187359&amp;auto=0&amp;height=32"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=160453&amp;auto=0&amp;height=32"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=295301&amp;auto=0&amp;height=32"></iframe>
+<hr>
+<p><strong>晴れたらいいね</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1446937848&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=33054075&amp;auto=0&amp;height=32"></iframe>
+<hr>
+<p><strong>永遠に</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1446943455&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=734954&amp;auto=0&amp;height=32"></iframe>
+<p>翻唱：（韩国男团东方神起）</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=3&amp;id=908070200&amp;auto=0&amp;height=32"></iframe>
+<hr>
+<p><strong>白い恋人達</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1443159491&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=26132907&amp;auto=0&amp;height=32"></iframe>
+<p>不算翻唱，搜索过程中发现的一个有趣的八音盒版本：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1352929761&amp;auto=0&amp;height=32"></iframe>
+<hr>
+<p><strong>祭りのあと</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1443163126&amp;auto=0&amp;height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=26132905&amp;auto=0&amp;height=32"></iframe>
+<p>翻唱：正在寻找</p>
+<hr>
+<p><strong>いとしのエリー</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1462390523&auto=0&height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=819097&auto=0&height=32"></iframe>
+<p>翻唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1860848233&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=189518&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=296659&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=65555&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=126852&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=194257&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=125268&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=27806702&auto=0&height=32"></iframe>
+<hr>
+<p><strong>言葉にできない</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446935942&auto=0&height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=486800&auto=0&height=32"></iframe>
+<p>翻唱：张靓颖-无法言喻</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=326930&auto=0&height=32"></iframe>
+<hr>
+<p><strong>365日</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446948341&auto=0&height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=22652581&auto=0&height=32"></iframe>
+<hr>
+<p><strong>love affair</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1821296656&auto=0&height=32"></iframe>
+<p>原唱：（《东野圭吾黎明的街道》剧中曲》）</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=817355&auto=0&height=32"></iframe>
+<hr>
+<p><strong>LA LA LA Love Song</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1818759355&auto=0&height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=446297&auto=0&height=32"></iframe>
+<hr>
+<p><strong>butterfly</strong></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446937844&auto=0&height=32"></iframe>
+<p>原唱：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1832161888&auto=0&height=32"></iframe>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[籽岷虚无世界生存bgm整理（上）]]></title>
         <id>https://HYPERJERRY233.github.io/post/zi_min aoa bgm/</id>
         <link href="https://HYPERJERRY233.github.io/post/zi_min aoa bgm/">
         </link>
@@ -90,80 +263,6 @@
 <p>翻唱：跟往事干杯（姜育恒）</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1860845473&auto=0&height=32"></iframe>
 <hr>
-<p><strong>家族になろうよ</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1443161312&auto=0&height=32"></iframe>
-<p>原唱：家族になろうよ（福山雅治）</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1860847491&auto=0&height=32"></iframe>
-<hr>
-<p><strong>希望の轍</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1818610200&auto=0&height=32"></iframe>
-<p>原唱：（在蜡笔小新中也出现过）</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=22774214&auto=0&height=32"></iframe>
-<hr>
-<p><strong>壊れかけのRadio</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1443157575&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=410151&auto=0&height=32"></iframe>
-<p>翻唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=187359&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=160453&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=295301&auto=0&height=32"></iframe>
-<hr>
-<p><strong>晴れたらいいね</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446937848&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=33054075&auto=0&height=32"></iframe>
-<hr>
-<p><strong>永遠に</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446943455&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=734954&auto=0&height=32"></iframe>
-<p>翻唱：（韩国男团东方神起）</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=3&id=908070200&auto=0&height=32"></iframe>
-<hr>
-<p><strong>白い恋人達</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1443159491&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=26132907&auto=0&height=32"></iframe>
-<p>不算翻唱，搜索过程中发现的一个有趣的八音盒版本：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1352929761&auto=0&height=32"></iframe>
-<hr>
-<p><strong>祭りのあと</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1443163126&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=26132905&auto=0&height=32"></iframe>
-<p>翻唱：正在寻找</p>
-<hr>
-<p><strong>いとしのエリー</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1462390523&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=819097&auto=0&height=32"></iframe>
-<p>翻唱：<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1860848233&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=189518&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=296659&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=65555&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=126852&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=194257&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=125268&auto=0&height=32"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=27806702&auto=0&height=32"></iframe></p>
-<hr>
-<p><strong>言葉にできない</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446935942&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=486800&auto=0&height=32"></iframe>
-<p>翻唱：张靓颖-无法言喻</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=326930&auto=0&height=32"></iframe>
-<hr>
-<p><strong>365日</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446948341&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=22652581&auto=0&height=32"></iframe>
-<hr>
-<p><strong>love affair</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1821296656&auto=0&height=32"></iframe>
-<p>原唱：（《东野圭吾黎明的街道》剧中曲》）</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=817355&auto=0&height=32"></iframe>
-<hr>
-<p><strong>LA LA LA Love Song</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1818759355&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=446297&auto=0&height=32"></iframe>
-<hr>
-<p><strong>butterfly</strong></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1446937844&auto=0&height=32"></iframe>
-<p>原唱：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1832161888&auto=0&height=32"></iframe>
 ]]></content>
     </entry>
     <entry>
@@ -177,6 +276,7 @@
 <img src="https://HYPERJERRY233.github.io/post-images/1624549625954.webp" alt="" loading="lazy"></p>
 <p>2.[酷漫字幕组]洛基Loki[04]<br>
 <img src="https://HYPERJERRY233.github.io/post-images/1625223356131.webp" alt="" loading="lazy"></p>
+<p><em>（短期内断更，暑假在家用大屏看视频，不便截图，就不做了）</em></p>
 ]]></content>
     </entry>
     <entry>
