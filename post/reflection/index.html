@@ -1,19 +1,14 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>游戏反思：不要为了游戏而游戏 | 辣条熬成酱</title>
-<meta name="description" content="好玩写写，认真你就输了">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1637166182354">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1637166387531">
 <link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
 
 
@@ -24,85 +19,88 @@
   
 
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
+    <meta name="description" content="写这一篇文章的前一天，我在《公主连结Re:dive》里经历了人生的第一次井（抽卡保底），但这不足以让我有感而发，因为在这个卡池之前，我也险些井（282/300）。虽然这个井，保证了我强力角色的获取，但对游戏钻石的花费，却是一笔不小的开支（近..." />
+    <meta name="keywords" content="随笔" />
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://LTJ233.github.io">
-        <img class="avatar" src="https://LTJ233.github.io/images/avatar.png?v=1637166182354" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://LTJ233.github.io">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://LTJ233.github.io">
+        <img src="https://LTJ233.github.io/images/avatar.png?v=1637166387531" class="site-logo">
         <h1 class="site-title">辣条熬成酱</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      好玩写写，认真你就输了
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">游戏反思：不要为了游戏而游戏</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2021-08-10</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">游戏反思：不要为了游戏而游戏</h2>
+            <div class="post-date">2021-08-10</div>
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://LTJ233.github.io/tag/RS_GlTPKF/">
-                    随笔
-                    
-                  </a>
-                
-              </span>
-            
-          </div>
-          <div class="post-content">
-            <p>写这一篇文章的前一天，我在《公主连结Re:dive》里经历了人生的第一次井（抽卡保底），但这不足以让我有感而发，因为在这个卡池之前，我也险些井（282/300）。虽然这个井，保证了我强力角色的获取，但对游戏钻石的花费，却是一笔不小的开支（近90000钻，折合RMB也要四位数了）。<br>
+            <div class="post-content" v-pre>
+              <p>写这一篇文章的前一天，我在《公主连结Re:dive》里经历了人生的第一次井（抽卡保底），但这不足以让我有感而发，因为在这个卡池之前，我也险些井（282/300）。虽然这个井，保证了我强力角色的获取，但对游戏钻石的花费，却是一笔不小的开支（近90000钻，折合RMB也要四位数了）。<br>
 <img src="https://LTJ233.github.io/post-images/1628689401031.webp" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="1"><img src="https://LTJ233.github.io/post-images/1628689408100.webp" alt="" loading="lazy"></figure>
 <hr>
@@ -123,51 +121,45 @@
 <hr>
 <p>不过话说回来，这毕竟还是我的问题，我经不起井的痛苦，经不起少钻的窘迫，也不是很有上进心。但我却又摆脱不了现在这类游戏的基本规则，所以我回坑的时候，大概还是会这么玩的吧。</p>
 
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://LTJ233.github.io/tag/RS_GlTPKF/" class="tag">
+                    随笔
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://LTJ233.github.io/post/KR3/">
+                  <h3 class="post-title">
+                    Kingdom Rush : Origins 全部关卡通关后感
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://LTJ233.github.io/post/KR3/">
-              <h3 class="post-title">
-                下一篇：Kingdom Rush : Origins 全部关卡通关后感
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-        
-          <div id="gitalk-container"></div>
-        
-
-        
-      
-
-      <div class="site-footer">
-  <div class="slogan">好玩写写，认真你就输了</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
 
-hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
 
 var app = new Vue({
   el: '#app',
@@ -177,6 +169,8 @@ var app = new Vue({
 })
 
 </script>
+
+
 
 
 

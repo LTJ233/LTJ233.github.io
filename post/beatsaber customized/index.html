@@ -1,19 +1,14 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>BEAT SABER 节奏光剑 AI自制谱曲体验 | 辣条熬成酱</title>
-<meta name="description" content="好玩写写，认真你就输了">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1637166182354">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1637166387531">
 <link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
 
 
@@ -24,153 +19,145 @@
   
 
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
+    <meta name="description" content="最近换了vr设备，入手了国外的oculus quest2，体验比国产vr设备丝滑许多。于是好事的我又忍不住想整点活🤪。
+去年入vr坑的时候就买了节奏光剑，玩着带感，还能玩到别人的自制谱面，但是作为一个二刺猿，很多歌曲都不能找到，或是没赶到..." />
+    <meta name="keywords" content="BEATSABER节奏光剑,VR,DIY" />
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://LTJ233.github.io">
-        <img class="avatar" src="https://LTJ233.github.io/images/avatar.png?v=1637166182354" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://LTJ233.github.io">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://LTJ233.github.io">
+        <img src="https://LTJ233.github.io/images/avatar.png?v=1637166387531" class="site-logo">
         <h1 class="site-title">辣条熬成酱</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      好玩写写，认真你就输了
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-            <div class="feature-container" style="background-image: url('https://LTJ233.github.io/post-images/beatsaber customized.webp')">
-            </div>
-          
-          <h2 class="post-title">BEAT SABER 节奏光剑 AI自制谱曲体验</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2021-07-22</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">BEAT SABER 节奏光剑 AI自制谱曲体验</h2>
+            <div class="post-date">2021-07-22</div>
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://LTJ233.github.io/tag/Ot77iBdsk/">
-                    BEATSABER节奏光剑
-                    
-                      ，
-                    
-                  </a>
-                
-                  <a href="https://LTJ233.github.io/tag/dgo9-XVH5/">
-                    VR
-                    
-                      ，
-                    
-                  </a>
-                
-                  <a href="https://LTJ233.github.io/tag/K6PardCBy2/">
-                    DIY
-                    
-                  </a>
-                
-              </span>
+              <div class="feature-container" style="background-image: url('https://LTJ233.github.io/post-images/beatsaber customized.webp')">
+              </div>
             
-          </div>
-          <div class="post-content">
-            <p>最近换了vr设备，入手了国外的oculus quest2，体验比国产vr设备丝滑许多。于是好事的我又忍不住想整点活🤪。</p>
+            <div class="post-content" v-pre>
+              <p>最近换了vr设备，入手了国外的oculus quest2，体验比国产vr设备丝滑许多。于是好事的我又忍不住想整点活🤪。</p>
 <p>去年入vr坑的时候就买了节奏光剑，玩着带感，还能玩到别人的自制谱面，但是作为一个二刺猿，很多歌曲都不能找到，或是没赶到作者下架前下载让我很是难受。然后我就找到了这个网站：<a href="https://beatsage.com/">https://beatsage.com/</a></p>
 <p>这是一个AI自动谱曲网站，他会识别你喜欢的歌曲的节奏，然后利用一定的算法谱曲，相比人工谱曲，AI谱曲快速便捷，非常实用。然而对于免费用户，他不能制作360°谱面以及舞台动态光效，有点可惜。。。</p>
 <p>用法也非常简单，只需上传或链接音乐，然后选择想要玩的模式，就可以自动谱曲了，不过要注意的是，制作时最好要科学上网，不然大概率会报错。然后谱面制作完成后会给一个带水印的封面，虽然可以自己修改掉，但我觉得这个水印用来标记自制和网上下载的区分也是非常直观方便。</p>
 <p>下载完后，如果手头没有vr设备，也可以先用这个网站在线预览：<a href="https://skystudioapps.com/bs-viewer/">https://skystudioapps.com/bs-viewer/</a></p>
 <p>（我个人非常喜欢プリコネ系列的角色歌，所以制作了一系列角色歌的谱面，有机会的话也可以分享给看到的各位。</p>
 
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://LTJ233.github.io/tag/Ot77iBdsk/" class="tag">
+                    BEATSABER节奏光剑
+                  </a>
+                
+                  <a href="https://LTJ233.github.io/tag/dgo9-XVH5/" class="tag">
+                    VR
+                  </a>
+                
+                  <a href="https://LTJ233.github.io/tag/K6PardCBy2/" class="tag">
+                    DIY
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://LTJ233.github.io/post/zi-min/">
+                  <h3 class="post-title">
+                    籽岷虚无世界生存bgm整理（下）
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://LTJ233.github.io/post/zi-min/">
-              <h3 class="post-title">
-                下一篇：籽岷虚无世界生存bgm整理（下）
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-        
-          <div id="gitalk-container"></div>
-        
-
-        
-      
-
-      <div class="site-footer">
-  <div class="slogan">好玩写写，认真你就输了</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
 
-hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
 
 var app = new Vue({
   el: '#app',
@@ -180,6 +167,8 @@ var app = new Vue({
 })
 
 </script>
+
+
 
 
 
