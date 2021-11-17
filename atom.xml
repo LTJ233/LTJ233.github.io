@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://LTJ233.github.io</id>
+    <id>https://hyperjerry233.github.io</id>
     <title>HyperJerry</title>
-    <updated>2021-11-17T13:34:27.980Z</updated>
+    <updated>2021-11-17T13:35:21.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://LTJ233.github.io"/>
-    <link rel="self" href="https://LTJ233.github.io/atom.xml"/>
+    <link rel="alternate" href="https://hyperjerry233.github.io"/>
+    <link rel="self" href="https://hyperjerry233.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://LTJ233.github.io/images/avatar.png</logo>
-    <icon>https://LTJ233.github.io/favicon.ico</icon>
+    <logo>https://hyperjerry233.github.io/images/avatar.png</logo>
+    <icon>https://hyperjerry233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, HyperJerry</rights>
     <entry>
         <title type="html"><![CDATA[我差点遭到了网络诈骗]]></title>
-        <id>https://LTJ233.github.io/post/wo-chai-dian-zao-dao-liao-wang-luo-zha-pian/</id>
-        <link href="https://LTJ233.github.io/post/wo-chai-dian-zao-dao-liao-wang-luo-zha-pian/">
+        <id>https://hyperjerry233.github.io/post/wo-chai-dian-zao-dao-liao-wang-luo-zha-pian/</id>
+        <link href="https://hyperjerry233.github.io/post/wo-chai-dian-zao-dao-liao-wang-luo-zha-pian/">
         </link>
         <updated>2021-11-16T09:12:48.000Z</updated>
         <content type="html"><![CDATA[<p>事情就是，我随手发了一个我自己录的游戏视频，然后被营销号盯上了。<br>
@@ -39,24 +39,24 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[DIY字体初体验]]></title>
-        <id>https://LTJ233.github.io/post/diy-zi-ti-chu-ti-yan/</id>
-        <link href="https://LTJ233.github.io/post/diy-zi-ti-chu-ti-yan/">
+        <id>https://hyperjerry233.github.io/post/diy-zi-ti-chu-ti-yan/</id>
+        <link href="https://hyperjerry233.github.io/post/diy-zi-ti-chu-ti-yan/">
         </link>
         <updated>2021-09-15T07:10:25.000Z</updated>
         <content type="html"><![CDATA[<p>这段时间在网课。作为一个懒人，写作业简直是对我的侮辱。恰巧我想起了一个很久之前插过眼的烂活，说不定可以帮我解决动笔写字的问题，因此我打算自己做一款手写体。<br>
-<img src="https://LTJ233.github.io/post-images/1633330758605.webp" alt="" loading="lazy"><br>
+<img src="https://hyperjerry233.github.io/post-images/1633330758605.webp" alt="" loading="lazy"><br>
 我使用到的是这个网站<a href="http://www.flexifont.com">http://www.flexifont.com</a>，这应该是北大开发的一个项目，原理很简单，就是把你的手写图片转换成字体文件进行安装。我先下载了一个实验模板体验一下。<br>
 这个模板字是不全的，我写了不到一千字就上传上去试试水。<br>
 一天后，字体出来了。好家伙！由于字数残缺，实际体验下来画风比较奇怪。但是至少英文可以正常使用了。试着换了一下一篇新闻的字体。虽然每个字都是我写的，但这个排版工整得太印刷体了吧。只能说拿这个交作业连小学生都能识破吧。<br>
-<img src="https://LTJ233.github.io/post-images/1633330862624.png" alt="" loading="lazy"><br>
-<img src="https://LTJ233.github.io/post-images/1633597295318.webp" alt="" loading="lazy"></p>
+<img src="https://hyperjerry233.github.io/post-images/1633330862624.png" alt="" loading="lazy"><br>
+<img src="https://hyperjerry233.github.io/post-images/1633597295318.webp" alt="" loading="lazy"></p>
 <p>不过话说回来，这次体验也挺好玩的，之前一直看见某某某明星字体，没想到我自己的字也可以成为字体。感兴趣可以下载一个六千字的版本玩一玩，字体还是比较全的。交作业偷懒不说，拿来装装B也是不戳滴~</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[跟对岸同胞玩错梗是一种什么样的体验？🤡]]></title>
-        <id>https://LTJ233.github.io/post/tw/</id>
-        <link href="https://LTJ233.github.io/post/tw/">
+        <id>https://hyperjerry233.github.io/post/tw/</id>
+        <link href="https://hyperjerry233.github.io/post/tw/">
         </link>
         <updated>2021-09-08T08:27:31.000Z</updated>
         <content type="html"><![CDATA[<p><em>这篇随笔没有政治性元素，不涉及两岸问题，仅仅是文化差异上的一点点思考。</em><br>
@@ -79,43 +79,43 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[游戏反思：不要为了游戏而游戏]]></title>
-        <id>https://LTJ233.github.io/post/reflection/</id>
-        <link href="https://LTJ233.github.io/post/reflection/">
+        <id>https://hyperjerry233.github.io/post/reflection/</id>
+        <link href="https://hyperjerry233.github.io/post/reflection/">
         </link>
         <updated>2021-08-10T13:24:36.000Z</updated>
         <content type="html"><![CDATA[<p>写这一篇文章的前一天，我在《公主连结Re:dive》里经历了人生的第一次井（抽卡保底），但这不足以让我有感而发，因为在这个卡池之前，我也险些井（282/300）。虽然这个井，保证了我强力角色的获取，但对游戏钻石的花费，却是一笔不小的开支（近90000钻，折合RMB也要四位数了）。<br>
-<img src="https://LTJ233.github.io/post-images/1628689401031.webp" alt="" loading="lazy"></p>
-<figure data-type="image" tabindex="1"><img src="https://LTJ233.github.io/post-images/1628689408100.webp" alt="" loading="lazy"></figure>
+<img src="https://hyperjerry233.github.io/post-images/1628689401031.webp" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://hyperjerry233.github.io/post-images/1628689408100.webp" alt="" loading="lazy"></figure>
 <hr>
 <p>反观一年前，当时我接触到这个游戏得益于B站的大力宣传，以及当时同名番剧的上映。我其实在高考前就有所耳闻，高考后我便像日常刷番一样，看完了第一季的动画。因为对动画的剧情感兴趣，我就入了坑。</p>
-<h3 id="没错这就是我玩这个所谓的二次元番剧手游游戏的初衷看番">没错，这就是我玩这个所谓的“二次元番剧手游”游戏的初衷：看番。<img src="https://LTJ233.github.io/post-images/1628689421878.webp" alt="" loading="lazy"></h3>
+<h3 id="没错这就是我玩这个所谓的二次元番剧手游游戏的初衷看番">没错，这就是我玩这个所谓的“二次元番剧手游”游戏的初衷：看番。<img src="https://hyperjerry233.github.io/post-images/1628689421878.webp" alt="" loading="lazy"></h3>
 <p>其实或许，这也是游戏本来的想要传达给我们的东西：一个操作并不复杂的游戏，视频cg、声优原声占用了几乎大多数内容。<br>
 去年整个暑假我的游戏体验都不错，主要是刷副本看剧情，然后抽点喜欢的人物。<br>
 但之后，自从看到各类攻略解析后，我开始变得和大多数人一样，半夜出刀，3点和群友竞技场抢位，买体刷装，卡星卡rank，甚至为了几点属性而放弃看剧情...<br>
 虽然不得不否认这应该是目前绝大多数玩家的日常，但其实至少对我来讲：</p>
 <h2 id="这样很累">这样很累</h2>
 <hr>
-<p><img src="https://LTJ233.github.io/post-images/1628689557731.webp" alt="" loading="lazy">所谓游戏，便是游玩，嬉戏。游戏的最终目的是娱乐放松，特别是对我这种咸鱼来说，这样的竞争，并没有刷完主线活动剧情来的爽。我们普通人不是职业选手，何苦累了自己，却换不到快乐？<br>
+<p><img src="https://hyperjerry233.github.io/post-images/1628689557731.webp" alt="" loading="lazy">所谓游戏，便是游玩，嬉戏。游戏的最终目的是娱乐放松，特别是对我这种咸鱼来说，这样的竞争，并没有刷完主线活动剧情来的爽。我们普通人不是职业选手，何苦累了自己，却换不到快乐？<br>
 不过话说回来，强度也不是没用，毕竟你没有实力推图，后面的剧情都解锁不了。<br>
 这次的水狼卡池，如果我不知道她的强度，我其实大概率是不会抽的，因为狼的人设其实不合我的口味。但现在，我却井了她。究其原因便是太看重了面板属性，太想为了变强。<br>
-这或许也能算一种内卷吧，亦或许是我想歇歇了。我不知道那些所谓的肝帝是怎么做到的，但至少就我而言，近450小时的游戏时间...真的让我对这类游戏有点心生厌倦。毕竟一年以来，我就从没有间断过这款游戏，每天像吃饭睡觉那样地当成了一种习惯。<img src="https://LTJ233.github.io/post-images/1628689432883.webp" alt="" loading="lazy"><br>
+这或许也能算一种内卷吧，亦或许是我想歇歇了。我不知道那些所谓的肝帝是怎么做到的，但至少就我而言，近450小时的游戏时间...真的让我对这类游戏有点心生厌倦。毕竟一年以来，我就从没有间断过这款游戏，每天像吃饭睡觉那样地当成了一种习惯。<img src="https://hyperjerry233.github.io/post-images/1628689432883.webp" alt="" loading="lazy"><br>
 所以在之后的一段时间，我打算暂时退坑，平复一下。<br>
-下期的会战我估计会鸽，对不起会里的大家了，这个公会是我入坑以来呆的最久的一个，成员们都热情活泼，（虽然都很咸鱼）排名在10000名浮动，但却没多大负担，作为公会第二输出的我如果退了坑，估计又进不了10000了吧。<img src="https://LTJ233.github.io/post-images/1628692900156.webp" alt="" loading="lazy"></p>
+下期的会战我估计会鸽，对不起会里的大家了，这个公会是我入坑以来呆的最久的一个，成员们都热情活泼，（虽然都很咸鱼）排名在10000名浮动，但却没多大负担，作为公会第二输出的我如果退了坑，估计又进不了10000了吧。<img src="https://hyperjerry233.github.io/post-images/1628692900156.webp" alt="" loading="lazy"></p>
 <hr>
 <p>不过话说回来，这毕竟还是我的问题，我经不起井的痛苦，经不起少钻的窘迫，也不是很有上进心。但我却又摆脱不了现在这类游戏的基本规则，所以我回坑的时候，大概还是会这么玩的吧。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush : Origins 全部关卡通关后感]]></title>
-        <id>https://LTJ233.github.io/post/KR3/</id>
-        <link href="https://LTJ233.github.io/post/KR3/">
+        <id>https://hyperjerry233.github.io/post/KR3/</id>
+        <link href="https://hyperjerry233.github.io/post/KR3/">
         </link>
         <updated>2021-08-07T16:37:48.000Z</updated>
-        <content type="html"><![CDATA[<p>前阵子把王国保卫战：起源的关卡星星全部拿到了,并且16个英雄全部升到了满级，作为一部从小时候的4399flash小游戏发展来的拔作，这部作品着实带给我不少快乐。<img src="https://LTJ233.github.io/post-images/1630398698744.webp" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p>前阵子把王国保卫战：起源的关卡星星全部拿到了,并且16个英雄全部升到了满级，作为一部从小时候的4399flash小游戏发展来的拔作，这部作品着实带给我不少快乐。<img src="https://hyperjerry233.github.io/post-images/1630398698744.webp" alt="" loading="lazy"><br>
 我大概是去年10月多开的坑，断断续续地玩着，到今年暑假正式全通，中间其实有好一段时间没玩，不过多数时间也是在玩制作公司铁皮的另一部非常有意思的作品钢铁战队。<br>
 上官网找了一下，原来这一系列游戏居然有着一个庞大的故事线（上学期学校布置我们写英语的故事概括，游戏官网的文章长度适中，刚好被我用作作业材料，所以基本对这些游戏、人物之间的联系有所了解）。主要讲述的是国王迪纳斯和黑巫师卫兹南两个集团之间的纷争，而这一部作品主要讲的是他们的战场艾欧尼亚大陆在精灵统治时期的故事，也就是王国的起源。<br>
-这个游戏的玩法还和童年的第一代一样，四个职业，只不过换了个皮肤，但升级后就不一样了。<img src="https://LTJ233.github.io/post-images/1630398738041.webp" alt="" loading="lazy"><br>
-在这个游戏中我最喜欢的英雄是火凤凰，空中单位，无限复活，最主要特效炸裂！<img src="https://LTJ233.github.io/post-images/1630398750974.webp" alt="" loading="lazy"><br>
+这个游戏的玩法还和童年的第一代一样，四个职业，只不过换了个皮肤，但升级后就不一样了。<img src="https://hyperjerry233.github.io/post-images/1630398738041.webp" alt="" loading="lazy"><br>
+在这个游戏中我最喜欢的英雄是火凤凰，空中单位，无限复活，最主要特效炸裂！<img src="https://hyperjerry233.github.io/post-images/1630398750974.webp" alt="" loading="lazy"><br>
 简单介绍一下技能：1. 同归于尽：向下俯冲，造成高额范围伤害并牺牲。（在这种状态下死亡后会变成凤凰蛋，5秒后涅槃重生并产生爆炸）<br>
 2.灵魂净化：将死去敌军的灵魂转化为火焰导弹。<br>
 3.炽烈雏凤：召唤4只烈焰跟踪鸟进行自杀式攻击。<br>
@@ -128,8 +128,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[OCULUS QUEST2使用心得及避坑建议]]></title>
-        <id>https://LTJ233.github.io/post/oculus-quest2/</id>
-        <link href="https://LTJ233.github.io/post/oculus-quest2/">
+        <id>https://hyperjerry233.github.io/post/oculus-quest2/</id>
+        <link href="https://hyperjerry233.github.io/post/oculus-quest2/">
         </link>
         <updated>2021-07-26T09:15:56.000Z</updated>
         <content type="html"><![CDATA[<p>今年6月底，我购买了OCULUS QUEST2，替代去年购买的国产vr一体机以求更好的游戏体验。然而作为Facebook旗下的产品，这款一体机对国内外家很不友好。我也是折腾了好几天才搞定。因为网上教程一搜一大堆，所以我只整理了一些我个人使用中问题，便于我自己之后的设备完善，也希望给看到的想入坑的或有了但还在琢磨的人一点启发。<br>
@@ -164,8 +164,8 @@
 当然有钱的话肯定用virtual desktop啦~（劳资终于有钱买啦，巨推！！！）</p>
 <h2 id="六-配件">六、配件</h2>
 <p>q2因为没有国行，所以脸型是为欧洲人定制的，鼻子巨~大！漏光严重，所以非常建议买一个挡光面罩。<br>
-我还购买了头戴，增加头部受力点，并且大幅晃头时一体机也不会偏移。<img src="https://LTJ233.github.io/post-images/1628353389500.webp" alt="" loading="lazy"><br>
-<img src="https://LTJ233.github.io/post-images/1628353398500.webp" alt="" loading="lazy"><br>
+我还购买了头戴，增加头部受力点，并且大幅晃头时一体机也不会偏移。<img src="https://hyperjerry233.github.io/post-images/1628353389500.webp" alt="" loading="lazy"><br>
+<img src="https://hyperjerry233.github.io/post-images/1628353398500.webp" alt="" loading="lazy"><br>
 其他的（保护套，贴纸，扩展充电宝，充电桩）我目前感觉不需要。</p>
 <h2 id="七-串流">七、串流</h2>
 <p>目前来看，我还是比较推荐无线串流的，因为自由无拘束。但有线也有好处，就是不需要局域网就能连，我基本没用过有线串流，所以这个不多讲。<br>
@@ -177,8 +177,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[BEAT SABER 节奏光剑 AI自制谱曲体验]]></title>
-        <id>https://LTJ233.github.io/post/beatsaber customized/</id>
-        <link href="https://LTJ233.github.io/post/beatsaber customized/">
+        <id>https://hyperjerry233.github.io/post/beatsaber customized/</id>
+        <link href="https://hyperjerry233.github.io/post/beatsaber customized/">
         </link>
         <updated>2021-07-22T01:53:23.000Z</updated>
         <content type="html"><![CDATA[<p>最近换了vr设备，入手了国外的oculus quest2，体验比国产vr设备丝滑许多。于是好事的我又忍不住想整点活🤪。</p>
@@ -191,8 +191,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[籽岷虚无世界生存bgm整理（下）]]></title>
-        <id>https://LTJ233.github.io/post/zi-min/</id>
-        <link href="https://LTJ233.github.io/post/zi-min/">
+        <id>https://hyperjerry233.github.io/post/zi-min/</id>
+        <link href="https://hyperjerry233.github.io/post/zi-min/">
         </link>
         <updated>2021-07-02T03:12:54.000Z</updated>
         <content type="html"><![CDATA[<p><strong>家族になろうよ</strong></p>
@@ -275,8 +275,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[籽岷虚无世界生存bgm整理（上）]]></title>
-        <id>https://LTJ233.github.io/post/zi_min aoa bgm/</id>
-        <link href="https://LTJ233.github.io/post/zi_min aoa bgm/">
+        <id>https://hyperjerry233.github.io/post/zi_min aoa bgm/</id>
+        <link href="https://hyperjerry233.github.io/post/zi_min aoa bgm/">
         </link>
         <updated>2021-06-29T10:47:34.000Z</updated>
         <content type="html"><![CDATA[<p>制作整合包时问紫昭大大那里要了他搜集的钢琴曲版bgm（岷叔用的是JPOP的，不是网上传言的广桥真纪子的，杠精们别再云了），闲来无事去查了一下，这些bgm都是有原曲的，而且都是那个年代十分流行的歌曲，甚至大部分都有中文翻唱。我自己整理了一下，把比较好的翻唱也分享一下。这些歌曲其实对一个热爱岷叔，热爱mc的每一位00后来说都是段独特而美好的回忆。同时收集这些歌曲也为新版本整合包做准备。</p>
@@ -357,20 +357,20 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一些有趣的中英翻译（持续更新）]]></title>
-        <id>https://LTJ233.github.io/post/interesting_translation/</id>
-        <link href="https://LTJ233.github.io/post/interesting_translation/">
+        <id>https://hyperjerry233.github.io/post/interesting_translation/</id>
+        <link href="https://hyperjerry233.github.io/post/interesting_translation/">
         </link>
         <updated>2021-06-24T15:44:33.000Z</updated>
         <content type="html"><![CDATA[<p>1.[NC-Raws] 关于我转生变成史莱姆这档事 转生史莱姆日记 - 09<br>
-<img src="https://LTJ233.github.io/post-images/1624549561836.webp" alt="" loading="lazy"><br>
-<img src="https://LTJ233.github.io/post-images/1624549625954.webp" alt="" loading="lazy"></p>
+<img src="https://hyperjerry233.github.io/post-images/1624549561836.webp" alt="" loading="lazy"><br>
+<img src="https://hyperjerry233.github.io/post-images/1624549625954.webp" alt="" loading="lazy"></p>
 <p>2.[酷漫字幕组]洛基Loki[04]<br>
-<img src="https://LTJ233.github.io/post-images/1625223356131.webp" alt="" loading="lazy"></p>
+<img src="https://hyperjerry233.github.io/post-images/1625223356131.webp" alt="" loading="lazy"></p>
 <p><em>（短期内断更，暑假在家用大屏看视频，不便截图，就不做了）</em></p>
 <p>3.[NC-Raws] 关于我转生变成史莱姆这档事 转生史莱姆日记 - 11<br>
-<img src="https://LTJ233.github.io/post-images/1633518205582.webp" alt="" loading="lazy"></p>
+<img src="https://hyperjerry233.github.io/post-images/1633518205582.webp" alt="" loading="lazy"></p>
 <p>4.[酷漫字幕组][假如...][第一季第九集][What If...][S01E09]<br>
-<img src="https://LTJ233.github.io/post-images/1633597372879.webp" alt="" loading="lazy"></p>
+<img src="https://hyperjerry233.github.io/post-images/1633597372879.webp" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
