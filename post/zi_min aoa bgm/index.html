@@ -1,14 +1,19 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title>籽岷虚无世界生存bgm整理（上） | 辣条熬成酱</title>
+<meta name="description" content="好玩写写，认真你就输了">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1637166109895">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1637166182354">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
 
 
@@ -19,88 +24,92 @@
   
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
-    <meta name="description" content="制作整合包时问紫昭大大那里要了他搜集的钢琴曲版bgm（岷叔用的是JPOP的，不是网上传言的广桥真纪子的，杠精们别再云了），闲来无事去查了一下，这些bgm都是有原曲的，而且都是那个年代十分流行的歌曲，甚至大部分都有中文翻唱。我自己整理了一下，..." />
-    <meta name="keywords" content="Minecraft我的世界,音乐分享" />
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://LTJ233.github.io">
-        <img src="https://LTJ233.github.io/images/avatar.png?v=1637166109895" class="site-logo">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://LTJ233.github.io">
+        <img class="avatar" src="https://LTJ233.github.io/images/avatar.png?v=1637166182354" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://LTJ233.github.io">
         <h1 class="site-title">辣条熬成酱</h1>
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="/" class="site-nav">
+          <a href="/" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="/archives" class="site-nav">
+          <a href="/archives" class="menu purple-link">
             归档
           </a>
         
       
         
-          <a href="/tags" class="site-nav">
+          <a href="/tags" class="menu purple-link">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="site-nav">
+          <a href="/post/about" class="menu purple-link">
             关于
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      好玩写写，认真你就输了
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">籽岷虚无世界生存bgm整理（上）</h2>
-            <div class="post-date">2021-06-29</div>
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">籽岷虚无世界生存bgm整理（上）</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2021-06-29</span>
             
-            <div class="post-content" v-pre>
-              <p>制作整合包时问紫昭大大那里要了他搜集的钢琴曲版bgm（岷叔用的是JPOP的，不是网上传言的广桥真纪子的，杠精们别再云了），闲来无事去查了一下，这些bgm都是有原曲的，而且都是那个年代十分流行的歌曲，甚至大部分都有中文翻唱。我自己整理了一下，把比较好的翻唱也分享一下。这些歌曲其实对一个热爱岷叔，热爱mc的每一位00后来说都是段独特而美好的回忆。同时收集这些歌曲也为新版本整合包做准备。</p>
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://LTJ233.github.io/tag/HznoA1Zom/">
+                    Minecraft我的世界
+                    
+                      ，
+                    
+                  </a>
+                
+                  <a href="https://LTJ233.github.io/tag/Eulw6mOXs/">
+                    音乐分享
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>制作整合包时问紫昭大大那里要了他搜集的钢琴曲版bgm（岷叔用的是JPOP的，不是网上传言的广桥真纪子的，杠精们别再云了），闲来无事去查了一下，这些bgm都是有原曲的，而且都是那个年代十分流行的歌曲，甚至大部分都有中文翻唱。我自己整理了一下，把比较好的翻唱也分享一下。这些歌曲其实对一个热爱岷叔，热爱mc的每一位00后来说都是段独特而美好的回忆。同时收集这些歌曲也为新版本整合包做准备。</p>
 <h6 id="由于云音乐云盘外链歌名显示不允许我会单独注明">（由于云音乐云盘外链歌名显示不允许，我会单独注明）</h6>
 <p><strong>ありがとう</strong></p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1443151900&auto=0&height=32"></iframe>
@@ -175,49 +184,51 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1860845473&auto=0&height=32"></iframe>
 <hr>
 
-            </div>
-            
-              <div class="tag-container">
-                
-                  <a href="https://LTJ233.github.io/tag/HznoA1Zom/" class="tag">
-                    Minecraft我的世界
-                  </a>
-                
-                  <a href="https://LTJ233.github.io/tag/Eulw6mOXs/" class="tag">
-                    音乐分享
-                  </a>
-                
-              </div>
-            
-            
-              <div class="next-post">
-                <div class="next">下一篇</div>
-                <a href="https://LTJ233.github.io/post/interesting_translation/">
-                  <h3 class="post-title">
-                    一些有趣的中英翻译（持续更新）
-                  </h3>
-                </a>
-              </div>
-            
-
-            
-              
-                <div id="gitalk-container" data-aos="fade-in"></div>
-              
-
-              
-            
-
           </div>
-
         </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://LTJ233.github.io/post/interesting_translation/">
+              <h3 class="post-title">
+                下一篇：一些有趣的中英翻译（持续更新）
+              </h3>
+            </a>
+          </div>
+          
       </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">好玩写写，认真你就输了</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
     </div>
+    <script type="application/javascript">
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
+hljs.initHighlightingOnLoad()
 
 var app = new Vue({
   el: '#app',
@@ -227,8 +238,6 @@ var app = new Vue({
 })
 
 </script>
-
-
 
 
 
