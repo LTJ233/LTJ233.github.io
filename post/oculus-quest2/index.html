@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>OCULUS QUEST2使用心得及避坑建议 | 辣条熬成酱</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1739209716489">
+<link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="今年6月底，我购买了OCULUS QUEST2，替代去年购买的国产vr一体机以求更好的游戏体验。然而作为Facebook旗下的产品，这款一体机对国内外家很不友好。我也是折腾了好几天才搞定。因为网上教程一搜一大堆，所以我只整理了一些我个人使用..." />
+    <meta name="keywords" content="教程,VR" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://LTJ233.github.io">
+        <img src="https://LTJ233.github.io/images/avatar.png?v=1739209716489" class="site-logo">
+        <h1 class="site-title">辣条熬成酱</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      人类真是有意思
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">OCULUS QUEST2使用心得及避坑建议</h2>
+            <div class="post-date">2021-07-26</div>
+            
+              <div class="feature-container" style="background-image: url('https://LTJ233.github.io/post-images/oculus-quest2.webp')">
+              </div>
+            
+            <div class="post-content" v-pre>
+              <p>今年6月底，我购买了OCULUS QUEST2，替代去年购买的国产vr一体机以求更好的游戏体验。然而作为Facebook旗下的产品，这款一体机对国内外家很不友好。我也是折腾了好几天才搞定。因为网上教程一搜一大堆，所以我只整理了一些我个人使用中问题，便于我自己之后的设备完善，也希望给看到的想入坑的或有了但还在琢磨的人一点启发。<br>
+首先，如果你符合以下条件，请谨慎购买，出门右转买国产VR：<br>
+1.懒得折腾，怕麻烦<br>
+2.从来没用过任何VR设备，不会VR的基础操作<br>
+3.没有培养过“良好的上网习惯”</p>
+<h2 id="一-购买">一、购买</h2>
+<p>我自己是直接亚马逊购买的，微信小程序里有日美两个版本，日本的物流比较快，其他差别不大。<br>
+当然，国内也有代购，价格贵一点，不过是帮忙激活的，怕麻烦可以买。但毕竟激活不是用的自己的号，以后更新什么的会比较麻烦。</p>
+<h2 id="二-激活">二、激活</h2>
+<p>最关键也最麻烦的一步。建议用自己的号，别人的号你也不知道有没有什么污点。我是使用的oculus助手进行激活的，虽然中途遇到了点问题，但目前这个方法是可行的。（如果不怕折腾，买个梅林路由器自己刷，刷完后其他的都省心了，但是这是技术活，一般小白弄不了）<br>
+<em>至于具体网络方面的问题，懂的都懂，自行解决[doge]</em></p>
+<h2 id="三-开发者">三、开发者</h2>
+<p>连接到手机APP，有手就行。（注意给权限，我一开始下意识点了禁止然后就连不上了）</p>
+<h2 id="四-安装软件">四、安装软件</h2>
+<p>土豪可以在内置应用商店直接购买，不过由于一体机是安卓系统，所以可以通过电脑装apk文件安装软件。个人比较常用的是sidequest和快斯特宝箱，前者资源更丰富，后者汉化应用多适合国人。<br>
+需要注意的是，一体机的系统更接近安卓电视的系统，所以很多手机app都不能正常使用，而电视app能用的好像多一点。<br>
+还有就是连接线的问题，如果电脑有Type-C口，请直接用原装充电线，如果没有，一定要用高质量USB线，不然电脑无法识别。</p>
+<h2 id="五-投屏">五、投屏</h2>
+<p>多亏热心的群友，我才折腾出了投屏的一系列操作。<br>
+1.q2投手机，电视<br>
+手机可以直接用oculus app，但要科学地使用。<br>
+安卓通用方法：手机，电视上安装airreceiver，打开，和一体机连接同一wifi，一体机内点投屏即可。<br>
+2.q2投电脑<br>
+电脑上打开sidequest，点右上角播放按钮直接投屏。<br>
+3.反投<br>
+一体机安装并打开airreceiver，手机安装镜像投屏（华为用不了QAQ），连接即可<br>
+华为手机的可以用乐播投屏，两端都安装上，不过因为协议问题，声音不能投，我目前只能使用耳机解决😂。<br>
+电脑可以使用Chrome浏览器的投屏功能（不推荐,延迟大）<br>
+也可使用steamvr串流虚拟桌面，或steam串流后打开GismoVR。（推荐，可反向操控电脑）<br>
+当然有钱的话肯定用virtual desktop啦~（劳资终于有钱买啦，巨推！！！）</p>
+<h2 id="六-配件">六、配件</h2>
+<p>q2因为没有国行，所以脸型是为欧洲人定制的，鼻子巨~大！漏光严重，所以非常建议买一个挡光面罩。<br>
+我还购买了头戴，增加头部受力点，并且大幅晃头时一体机也不会偏移。<img src="https://LTJ233.github.io/post-images/1628353389500.webp" alt="" loading="lazy"><br>
+<img src="https://LTJ233.github.io/post-images/1628353398500.webp" alt="" loading="lazy"><br>
+其他的（保护套，贴纸，扩展充电宝，充电桩）我目前感觉不需要。</p>
+<h2 id="七-串流">七、串流</h2>
+<p>目前来看，我还是比较推荐无线串流的，因为自由无拘束。但有线也有好处，就是不需要局域网就能连，我基本没用过有线串流，所以这个不多讲。<br>
+目前我主要使用官方自带的airlink进行无线串流，延迟还是很低的，至少我玩节奏光剑的专家难度还是能勉强凑合的，专家+的话看来还是高端头显的直连才能驾驭了...<br>
+无奈airlink从启动到连接，差不多需要等待十几分钟，还对电脑配置有着不低的要求。<br>
+更新：9月初我入了virtual desktop后，airlink就放一旁吃灰啦~</p>
+<h6 id="如果之后我在使用方面还有什么新的发现我也会在这里更新">如果之后我在使用方面还有什么新的发现，我也会在这里更新。</h6>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://LTJ233.github.io/tag/F3DgLUuel/" class="tag">
+                    教程
+                  </a>
+                
+                  <a href="https://LTJ233.github.io/tag/dgo9-XVH5/" class="tag">
+                    VR
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://LTJ233.github.io/post/beatsaber customized/">
+                  <h3 class="post-title">
+                    BEAT SABER 节奏光剑 AI自制谱曲体验
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'f45f99f1783e232ca8f5',
+        clientSecret: '10a58898e5fb3d3e0c904edb5554c4f1c303dd3b',
+        repo: 'LTJ233.github.io',
+        owner: 'LTJ233',
+        admin: ['LTJ233'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

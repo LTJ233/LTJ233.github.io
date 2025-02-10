@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>DIY字体初体验 | 辣条熬成酱</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1739209716489">
+<link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="这段时间在网课。作为一个懒人，写作业简直是对我的侮辱。恰巧我想起了一个很久之前插过眼的烂活，说不定可以帮我解决动笔写字的问题，因此我打算自己做一款手写体。
+
+我使用到的是这个网站http://www.flexifont.com，这应该是北大..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://LTJ233.github.io">
+        <img src="https://LTJ233.github.io/images/avatar.png?v=1739209716489" class="site-logo">
+        <h1 class="site-title">辣条熬成酱</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      人类真是有意思
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">DIY字体初体验</h2>
+            <div class="post-date">2021-09-15</div>
+            
+            <div class="post-content" v-pre>
+              <p>这段时间在网课。作为一个懒人，写作业简直是对我的侮辱。恰巧我想起了一个很久之前插过眼的烂活，说不定可以帮我解决动笔写字的问题，因此我打算自己做一款手写体。<br>
+<img src="https://LTJ233.github.io/post-images/1633330758605.webp" alt="" loading="lazy"><br>
+我使用到的是这个网站<a href="http://www.flexifont.com">http://www.flexifont.com</a>，这应该是北大开发的一个项目，原理很简单，就是把你的手写图片转换成字体文件进行安装。我先下载了一个实验模板体验一下。<br>
+这个模板字是不全的，我写了不到一千字就上传上去试试水。<br>
+一天后，字体出来了。好家伙！由于字数残缺，实际体验下来画风比较奇怪。但是至少英文可以正常使用了。试着换了一下一篇新闻的字体。虽然每个字都是我写的，但这个排版工整得太印刷体了吧。只能说拿这个交作业连小学生都能识破吧。<br>
+<img src="https://LTJ233.github.io/post-images/1633330862624.png" alt="" loading="lazy"><br>
+<img src="https://LTJ233.github.io/post-images/1633597295318.webp" alt="" loading="lazy"></p>
+<p>不过话说回来，这次体验也挺好玩的，之前一直看见某某某明星字体，没想到我自己的字也可以成为字体。感兴趣可以下载一个六千字的版本玩一玩，字体还是比较全的。交作业偷懒不说，拿来装装B也是不戳滴~</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://LTJ233.github.io/post/tw/">
+                  <h3 class="post-title">
+                    跟对岸同胞玩错梗是一种什么样的体验？🤡
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'f45f99f1783e232ca8f5',
+        clientSecret: '10a58898e5fb3d3e0c904edb5554c4f1c303dd3b',
+        repo: 'LTJ233.github.io',
+        owner: 'LTJ233',
+        admin: ['LTJ233'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

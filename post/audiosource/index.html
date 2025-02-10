@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>博客网站开始更换音源 | 辣条熬成酱</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1739209716489">
+<link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="由于我对HTML语言一窍不通，之前直接套用的网易云播放器框架
+像这样
+&lt;#iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot;..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://LTJ233.github.io">
+        <img src="https://LTJ233.github.io/images/avatar.png?v=1739209716489" class="site-logo">
+        <h1 class="site-title">辣条熬成酱</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      人类真是有意思
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">博客网站开始更换音源</h2>
+            <div class="post-date">2022-11-08</div>
+            
+            <div class="post-content" v-pre>
+              <p>由于我对HTML语言一窍不通，之前直接套用的网易云播放器框架<br>
+像这样<br>
+&lt;#iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;？？？&quot;&gt;&lt;#/iframe&gt;</p>
+<p>但这会有一个问题，就是该死的版权限制和资本主义万恶的付费限制，也就是说，网易版权到期的歌放不了，收听的人没有会员，付费歌听不了。<br>
+我曾经尝试将其上传到网易云盘来曲线救国，在我自己看来没什么大问题，但一旦我在浏览器退出网易云账号，云盘的外链就不允许播放了，太恶心了！！！</p>
+<p>最近发现了一个好办法来自制音床，就是使用微软的onedrive网盘分享链接然后提取直链，毕竟是存在自己网盘上的实效性可以有效保证，同时也不会专用博客源文件，节约空间。最重要的是可以想放什么歌就放什么歌，反正是供自己个人学习娱乐使用，也不会扯上版权问题。</p>
+<p>实现方法很简单,在https://link.gimhoy.com/ 上提取分享文件的直链就可以了<br>
+问题是我不会HTML语言，所以我简单学了一下最简单的音频播放器嵌入的代码<br>
+像这样<br>
+&lt;#audio controls autoplay&gt;<br>
+&lt;#source src=&quot;？？？&quot; type=&quot;audio/mpeg&quot;&gt;<br>
+您的浏览器不支持 audio 元素。<br>
+&lt;#/audio&gt;<br>
+其中的第一行后去掉autoplay就是手动播放</p>
+<p>（添加于2023/6/6）<br>
+图片是这样的<br>
+&lt;#img src=&quot;？？？&quot;&gt;</p>
+<p>除此以外，图片，视频理论上来说也可以这样实现，不过视频的话我可能会用B站的外链多一点，图片的话我习惯使用自己转码成webp格式上传，比较省流，加载也不会很慢。而音乐由于我的资源一般都是无损flac格式的，即便压缩成mp3也不小，所以用外链是最合适的。<br>
+不过使用这种浏览器默认风格的播放器是不能显示音乐的封面的，还有歌名也不能显示，这点是最让我感到可惜的。但其实对我来说够用了，目前看来也不会因为多次调用而冷却。之后有空就补一下之前网易云的外链吧，毕竟很多都不能正常播放。</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://LTJ233.github.io/post/Quintuplets/">
+                  <h3 class="post-title">
+                    美梦醒来，悲喜交加——观五等分の花嫁有感
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'f45f99f1783e232ca8f5',
+        clientSecret: '10a58898e5fb3d3e0c904edb5554c4f1c303dd3b',
+        repo: 'LTJ233.github.io',
+        owner: 'LTJ233',
+        admin: ['LTJ233'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>Gridea博客上传网络问题的快速解决 | 辣条熬成酱</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://LTJ233.github.io/favicon.ico?v=1739209716489">
+<link rel="stylesheet" href="https://LTJ233.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。
+道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://LTJ233.github.io">
+        <img src="https://LTJ233.github.io/images/avatar.png?v=1739209716489" class="site-logo">
+        <h1 class="site-title">辣条熬成酱</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      人类真是有意思
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://LTJ233.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">Gridea博客上传网络问题的快速解决</h2>
+            <div class="post-date">2022-11-01</div>
+            
+            <div class="post-content" v-pre>
+              <p>最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。<br>
+道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器进行网页的呈现，而github的服务器架设在美国，加上防火长城的阻隔，国内用户访问本来就会非常慢，不过我很明显地感觉到，现在的博客上传基本上是完全被拒之门外了，之前我甚至可以裸连尝试几次后就上传成功。<br>
+而这一问题同样困扰着其他的gridea用户，目前网上最靠谱的方法是下载github客户端，把在gridea客户端生成的上传文件粘贴过去手动上传，这种曲线救国的方法确实可行，但像我们这种代码小白不就是图方便才用gridea的吗？这样太麻烦了。</p>
+<p>分析后我发现，其实问题在于gridea客户端不能被代理工具识别，即便在全局模式下，上传依然使用的是国内网络。<br>
+那么，这个问题就跟游戏加速一样了，我们只需把代理规则修改成对gridea及其依赖文件生效就可以了。但是游戏加速器不会收录这个冷门的小软件，于是我就想到了netch。<br>
+netch可以设置任意程序的代理规则，对于买不起加速器服务的我来说，玩一些延迟要求不是很高的游戏也会经常使用。<br>
+<img src="https://LTJ233.github.io/post-images/1669103856516.webp" alt="" loading="lazy"><br>
+扫描目标文件夹后新建规则，就能一劳永逸啦</p>
+<p>（更新于2022.11.22<br>
+我傻逼了, 0.93版的gridea可支持设置代理了，所以今后的上传更为简洁了<br>
+只需要在gridea里设置一下就可以了<br>
+如果用的是clash，默认就这样设<br>
+<img src="https://LTJ233.github.io/post-images/1669104535713.webp" alt="" loading="lazy"></p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://LTJ233.github.io/post/nostalgia/">
+                  <h3 class="post-title">
+                    怀旧要素过多真的好吗
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'f45f99f1783e232ca8f5',
+        clientSecret: '10a58898e5fb3d3e0c904edb5554c4f1c303dd3b',
+        repo: 'LTJ233.github.io',
+        owner: 'LTJ233',
+        admin: ['LTJ233'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
