@@ -1,0 +1,212 @@
+<html>
+
+<head>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="Gridea Pro 1.2.2">
+<title>Gridea博客上传网络问题的快速解决 | Gridea Pro</title>
+<link rel="shortcut icon" href="/favicon.ico?v=1782749956">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Gridea博客上传网络问题的快速解决 | Gridea Pro - Atom Feed" href="/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+<meta name="description" content="最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。 道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器进行网页的呈现，而github的服务器架设在美国，加上防火长城的阻隔，国内用户访问本来就会非常慢，不过我很明显地感觉到，现在的博客上传基本上是完全被拒之门外了&amp;hellip;">
+<link rel="canonical" href="https://ltj233.github.io/post/upload/">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Gridea博客上传网络问题的快速解决","url":"https://ltj233.github.io/post/upload/","description":"最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。 道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器进行网页的呈现，而github的服务器架设在美国，加上防火长城的阻隔，国内用户访问本来就会非常慢，不过我很明显地感觉到，现在的博客上传基本上是完全被拒之门外了\u0026hellip;","datePublished":"2022-11-01T15:32:50+08:00","dateModified":"2022-11-01T15:32:50+08:00","author":{"@type":"Person","name":"Gridea Pro"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/images/avatar.png"},"name":"Gridea Pro"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://ltj233.github.io","name":"Gridea Pro","position":1},{"@type":"ListItem","item":"https://ltj233.github.io/post/upload/","name":"Gridea博客上传网络问题的快速解决","position":2}]}</script>
+<meta property="og:title" content="Gridea博客上传网络问题的快速解决">
+<meta property="og:description" content="最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。 道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器进行网页的呈现，而github的服务器架设在美国，加上防火长城的阻隔，国内用户访问本来就会非常慢，不过我很明显地感觉到，现在的博客上传基本上是完全被拒之门外了&amp;hellip;">
+<meta property="og:url" content="https://ltj233.github.io/post/upload/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Gridea Pro">
+<meta property="og:image" content="/images/avatar.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://ltj233.github.io/post/upload/">
+<meta name="twitter:title" content="Gridea博客上传网络问题的快速解决">
+<meta name="twitter:description" content="最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。 道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器进行网页的呈现，而github的服务器架设在美国，加上防火长城的阻隔，国内用户访问本来就会非常慢，不过我很明显地感觉到，现在的博客上传基本上是完全被拒之门外了&amp;hellip;">
+<meta name="twitter:image" content="/images/avatar.png">
+</head>
+
+<body>
+    <div class="main">
+        <div class="main-content">
+            
+<div class="site-header">
+    <a href="/">
+        <img class="avatar" src="/images/avatar.png?v=1782749956" alt="">
+    </a>
+    <h1 class="site-title">
+        Gridea Pro
+    </h1>
+    <p class="site-description">
+        Welcome to Gridea Pro
+    </p>
+    <div class="menu-container">
+        
+        
+        <a href="/" class="menu">
+            首页
+        </a>
+        
+        
+        
+        <a href="/post" class="menu">
+            博客
+        </a>
+        
+        
+        
+        <a href="/memos" class="menu">
+            闪念
+        </a>
+        
+        
+        
+        <a href="/archives" class="menu">
+            归档
+        </a>
+        
+        
+        
+        <a href="/tags" class="menu">
+            标签
+        </a>
+        
+        
+        
+        <a href="/links" class="menu">
+            友链
+        </a>
+        
+        
+        
+        <a href="/post/about" class="menu">
+            关于
+        </a>
+        
+        
+    </div>
+    <div class="social-container">
+        
+        
+        
+        
+        
+    </div>
+</div>
+
+            <div class="post-detail">
+                <article class="post">
+                    <h2 class="post-title">
+                        Gridea博客上传网络问题的快速解决
+                    </h2>
+                    <div class="post-info">
+                        <span>
+                            2022-11-01
+                        </span>
+                        <span>
+                            1 分钟阅读
+                        </span>
+                        
+                    </div>
+                    
+                    <div class="post-content-wrapper">
+                        <div class="post-content" v-pre>
+                            <p>最近一段时间我的博客站点基本上处于半死状态，一个原因是没有想写的（烂），另一个是我写博客用的这个gridea客户端在中国大陆基本上是传不上文章了。<br />
+道理也简单，gridea的文章会上传到github的个人仓库中，然后通过github的服务器进行网页的呈现，而github的服务器架设在美国，加上防火长城的阻隔，国内用户访问本来就会非常慢，不过我很明显地感觉到，现在的博客上传基本上是完全被拒之门外了，之前我甚至可以裸连尝试几次后就上传成功。<br />
+而这一问题同样困扰着其他的gridea用户，目前网上最靠谱的方法是下载github客户端，把在gridea客户端生成的上传文件粘贴过去手动上传，这种曲线救国的方法确实可行，但像我们这种代码小白不就是图方便才用gridea的吗？这样太麻烦了。</p>
+<p>分析后我发现，其实问题在于gridea客户端不能被代理工具识别，即便在全局模式下，上传依然使用的是国内网络。<br />
+那么，这个问题就跟游戏加速一样了，我们只需把代理规则修改成对gridea及其依赖文件生效就可以了。但是游戏加速器不会收录这个冷门的小软件，于是我就想到了netch。<br />
+netch可以设置任意程序的代理规则，对于买不起加速器服务的我来说，玩一些延迟要求不是很高的游戏也会经常使用。<br />
+<img src="https://LTJ233.github.io/post-images/1669103856516.webp" alt="" /><br />
+扫描目标文件夹后新建规则，就能一劳永逸啦</p>
+<p>（更新于2022.11.22<br />
+我傻逼了, 0.93版的gridea可支持设置代理了，所以今后的上传更为简洁了<br />
+只需要在gridea里设置一下就可以了<br />
+如果用的是clash，默认就这样设<br />
+<img src="https://LTJ233.github.io/post-images/1669104535713.webp" alt="" /></p>
+
+                        </div>
+                        <div class="toc-container">
+                            
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            
+            <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="/post/nostalgia/">
+                    <h3 class="post-title">
+                        怀旧要素过多真的好吗
+                    </h3>
+                </a>
+            </div>
+            
+
+            
+
+            
+<div class="site-footer">
+    Powered by Gridea Pro
+    <a class="rss" href="/atom.xml" target="_blank">
+        <i class="ri-rss-line"></i> RSS
+    </a>
+</div>
+
+        </div>
+    </div>
+
+    <script>
+        hljs.initHighlightingOnLoad()
+
+        let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+        window.addEventListener("scroll", event => {
+            let fromTop = window.scrollY;
+
+            mainNavLinks.forEach((link, index) => {
+                let section = document.getElementById(decodeURI(link.hash).substring(1));
+                let nextSection = null
+                if (mainNavLinks[index + 1]) {
+                    nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+                }
+                if (section.offsetTop <= fromTop) {
+                    if (nextSection) {
+                        if (nextSection.offsetTop > fromTop) {
+                            link.classList.add("current");
+                        } else {
+                            link.classList.remove("current");
+                        }
+                    } else {
+                        link.classList.add("current");
+                    }
+                } else {
+                    link.classList.remove("current");
+                }
+            });
+        });
+
+    </script>
+<script>console.log("\n%c ✦ Gridea Pro v1.2.2 %c · Theme: inotes v1.0.0 · https://gridea.pro %c\n","color:#fadfa3;background:#111111;padding:9px 14px;border-radius:4px 0 0 4px;font-weight:500;font-size:12px","color:#e05c00;background:#fff3ec;padding:9px 14px;border-radius:0 4px 4px 0;font-size:11px","")</script>
+</body>
+
+</html>
