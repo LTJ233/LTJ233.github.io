@@ -2,58 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ltj233.github.io/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/hello-gridea-pro/</loc>
-    <lastmod>2026-06-30T00:17:57+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/post/hello-gridea/</loc>
-    <lastmod>2026-06-30T00:17:59+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://ltj233.github.io/post-images/hello-gridea.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/post/quick-start/</loc>
-    <lastmod>2026-06-30T00:16:57+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/post/why-we-write/</loc>
-    <lastmod>2026-06-30T00:15:57+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/post/indie-blog-is-not-dead/</loc>
-    <lastmod>2026-06-30T00:14:57+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/post/why-i-revived-gridea/</loc>
-    <lastmod>2026-06-30T00:13:57+08:00</lastmod>
+    <lastmod>2026-06-30T00:44:01+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/anit-AI/</loc>
-    <lastmod>2026-06-29T23:34:00+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/%E8%9B%87%E5%B9%B4/</loc>
-    <lastmod>2026-02-16T18:36:36+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -62,7 +29,7 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/%E9%BE%99%E5%B9%B4/</loc>
-    <lastmod>2025-01-28T21:32:32+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -71,13 +38,13 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/yi-xie-tong-nian-you-xi-de-bao-cun/</loc>
-    <lastmod>2024-06-05T19:39:43+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/%E5%85%94%E5%B9%B4/</loc>
-    <lastmod>2024-02-08T23:58:22+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -86,7 +53,7 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/gridman-universe/</loc>
-    <lastmod>2023-11-07T00:54:52+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -95,7 +62,7 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/%E8%99%8E%E5%B9%B4/</loc>
-    <lastmod>2023-01-21T21:21:59+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -104,19 +71,19 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/win10update/</loc>
-    <lastmod>2022-11-12T20:53:33+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/audiosource/</loc>
-    <lastmod>2022-11-08T16:57:56+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/Quintuplets/</loc>
-    <lastmod>2022-11-04T18:10:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -125,19 +92,19 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/upload/</loc>
-    <lastmod>2022-11-01T15:32:50+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/nostalgia/</loc>
-    <lastmod>2022-07-14T19:26:31+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/%E7%89%9B%E5%B9%B4/</loc>
-    <lastmod>2022-01-29T13:06:29+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -146,31 +113,31 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/online%20scams/</loc>
-    <lastmod>2021-11-16T17:12:48+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/diy%20font/</loc>
-    <lastmod>2021-09-15T15:10:25+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/tw/</loc>
-    <lastmod>2021-09-08T16:27:31+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/reflection/</loc>
-    <lastmod>2021-08-10T21:24:36+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/KR3/</loc>
-    <lastmod>2021-08-08T00:37:48+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -179,7 +146,7 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/oculus-quest2/</loc>
-    <lastmod>2021-07-26T17:15:56+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -188,7 +155,7 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/beatsaber%20customized/</loc>
-    <lastmod>2021-07-22T09:53:23+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -197,31 +164,31 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/zi-min/</loc>
-    <lastmod>2021-07-02T11:12:54+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/zi_min%20aoa%20bgm/</loc>
-    <lastmod>2021-06-29T18:47:34+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/interesting_translation/</loc>
-    <lastmod>2021-06-24T23:44:33+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/guan-yu-hencethustherefore-de-ge-ren-li-jie/</loc>
-    <lastmod>2021-06-09T11:20:36+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/post/kamenrider_saber/</loc>
-    <lastmod>2021-06-06T13:20:54+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -230,7 +197,7 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/dynazenon/</loc>
-    <lastmod>2021-06-05T13:00:59+08:00</lastmod>
+    <lastmod>2026-06-30T00:47:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -239,139 +206,127 @@
   </url>
   <url>
     <loc>https://ltj233.github.io/post/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/memos/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/tags/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/archives/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ltj233.github.io/tag/gridea/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
     <loc>https://ltj233.github.io/tag/gridea-pro/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/getting-started/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/sui-bi/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/yin-le-fen-xiang/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/xue-xi-jiao-liu/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/wu-deng-fen-no-hua-jia/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/jiao-cheng/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/minecraft-wo-de-shi-jie/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/ying-yu/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/ying-shi-tu-cao/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/tag/guan-hou-gan/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ltj233.github.io/tag/vr/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/beatsaber-jie-zou-guang-jian/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/jia-mian-qi-shi/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ltj233.github.io/tag/te-she/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <loc>https://ltj233.github.io/tag/sui-bi/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/tag/you-xi-za-tan/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/vr/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/tag/diy/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/beatsaber-jie-zou-guang-jian/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/ying-yu/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/wu-deng-fen-no-hua-jia/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/xue-xi-jiao-liu/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/ying-shi-tu-cao/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/jia-mian-qi-shi/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/jiao-cheng/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/te-she/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/yin-le-fen-xiang/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://ltj233.github.io/tag/minecraft-wo-de-shi-jie/</loc>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://ltj233.github.io/links/</loc>
-    <lastmod>2026-06-30T00:19:16+08:00</lastmod>
+    <lastmod>2026-06-30T00:50:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
